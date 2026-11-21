@@ -1,4 +1,4 @@
-name: CI
+hermes-home: CI
 
 on:
   pull_request:
